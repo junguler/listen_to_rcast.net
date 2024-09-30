@@ -102,7 +102,7 @@
 
 [armenian](https://junguler.github.io/listen_to_rcast.net/things/armenian.html) 
 
-[art_-_underground](https://junguler.github.io/listen_to_rcast.net/things/art_-_underground.html) 
+[art-underground](https://junguler.github.io/listen_to_rcast.net/things/art-underground.html) 
 
 [asian](https://junguler.github.io/listen_to_rcast.net/things/asian.html) 
 
@@ -1134,7 +1134,7 @@
 
 [news__music](https://junguler.github.io/listen_to_rcast.net/things/news__music.html) 
 
-[news_-_talk](https://junguler.github.io/listen_to_rcast.net/things/news_-_talk.html) 
+[news-talk](https://junguler.github.io/listen_to_rcast.net/things/news-talk.html) 
 
 [news_and_talk](https://junguler.github.io/listen_to_rcast.net/things/news_and_talk.html) 
 
@@ -1284,9 +1284,9 @@
 
 [pop](https://junguler.github.io/listen_to_rcast.net/things/pop.html) 
 
-[pop_-_dance](https://junguler.github.io/listen_to_rcast.net/things/pop_-_dance.html) 
+[pop-dance](https://junguler.github.io/listen_to_rcast.net/things/pop-dance.html) 
 
-[pop_-_rock](https://junguler.github.io/listen_to_rcast.net/things/pop_-_rock.html) 
+[pop-rock](https://junguler.github.io/listen_to_rcast.net/things/pop-rock.html) 
 
 [pop_asian](https://junguler.github.io/listen_to_rcast.net/things/pop_asian.html) 
 
